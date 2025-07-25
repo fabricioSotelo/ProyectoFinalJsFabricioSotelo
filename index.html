@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron&display=swap" rel="stylesheet">
+
+  <title>Tienda Gaming FS | Inicio</title>
+
+
+  <!-- Logo -->
+  <link rel="icon" type="image/png" href="assets/game-1926905_1280.png" />
+
+  <!-- Bootstrap -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet" />
+
+  <!-- Toastify -->
+  <script src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css" />
+
+  <!-- Estilos personalizados -->
+  <link rel="stylesheet" href="./css/style.css" />
+</head>
+<body>
+  <!-- Navbar -->
+  <header>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+      <div class="container">
+        <a class="navbar-brand" href="#">
+          <img src="/assets/game-1926905_1280.png" alt="LogoGaming" class="navbar-logo" />
+          Tienda Gaming FS
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav ms-auto">
+            <li class="nav-item"><a class="nav-link active" href="#">Inicio</a></li>
+            <li class="nav-item"><a class="nav-link" href="./pages/carrito.html">Carrito 🛒 <span id="cart-count"></span></a></li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+  </header>
+
+  <!-- Hero -->
+  <section class="hero bg-primary text-white text-center py-5">
+    <div class="container">
+      <h1 class="display-4">Bienvenido a Tienda Gaming FS</h1>
+      <p class="lead">Explorá lo mejor en periféricos, accesorios y hardware gamer</p>
+    </div>
+  </section>
+
+  <!-- Catálogo dinámico -->
+  <main class="container py-5">
+    <h2 class="text-center mb-4">Productos Destacados 🎧🖱️🎮</h2>
+    <div class="row" id="products-container">
+      <!-- Aquí se insertarán los libros dinámicamente con JavaScript -->
+    </div>
+  </main>
+
+  <!-- Footer -->
+  <footer class="bg-dark text-light py-4 text-center">
+    <div class="container">
+        <img src="assets/game-1926905_1280.png" alt="LogoGaming" width="80" class="mb-3 rounded-circle" />
+        <h5>Tienda de Tecnología y Gaming</h5>
+        <p>“El poder está en tus manos. Solo necesitás los periféricos adecuados.”</p>
+        <p class="mb-0 mt-3">© 2025 Tienda Gaming FS. Todos los derechos reservados.</p>
+    </div>
+  </footer>
+
+  <!-- Bootstrap JS -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js"></script>
+
+  <!-- Tu JavaScript principal -->
+  <script defer src="./js/main.js"></script>
+</body>
+</html>

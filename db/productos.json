@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "title": "Auriculares Logitech G733 Con Micrófono Inalámbricos Lightspeed Rgb P Color Azul",
+    "brand": "Logitech",
+    "category": "Auriculares",
+    "price": 220.000,
+    "image": "assets/img/auris.1.webp"
+  },
+  {
+    "id": 2,
+    "title": "Auricular Gp-aorus H1 7.1 Rgb Gigabyte",
+    "brand": "Aorus",
+    "category": "Auriculares",
+    "price": 250.000,
+    "image": "assets/img/auris.2.webp"
+  },
+  {
+    "id": 3,
+    "title": "Teclado Redragon Kumara K552",
+    "brand": "Redragon",
+    "category": "Teclado",
+    "price": 11000,
+    "image": "assets/img/micro.1.png"
+  },
+  {
+    "id": 4,
+    "title": "Auriculares HyperX Cloud II",
+    "brand": "HyperX",
+    "category": "Auriculares",
+    "price": 12000,
+    "image": "assets/img/micro.2.webp"
+  },
+  {
+    "id": 5,
+    "title": "Mouse Logitech G502 Hero",
+    "brand": "Logitech",
+    "category": "Mouse",
+    "price": 9500,
+    "image": "assets/img/mouse.1.png"
+  },
+  {
+    "id": 6,
+    "title": "Teclado Redragon Kumara K552",
+    "brand": "Redragon",
+    "category": "Teclado",
+    "price": 11000,
+    "image": "assets/img/mouse.2.webp"
+  },
+  {
+    "id": 7,
+    "title": "Auriculares HyperX Cloud II",
+    "brand": "HyperX",
+    "category": "Auriculares",
+    "price": 12000,
+    "image": "assets/img/tecla.1.webp"
+  },
+  {
+    "id": 8,
+    "title": "Mouse Logitech G502 Hero",
+    "brand": "Logitech",
+    "category": "Mouse",
+    "price": 9500,
+    "image": "assets/img/tecla.2.webp"
+  }
+]
