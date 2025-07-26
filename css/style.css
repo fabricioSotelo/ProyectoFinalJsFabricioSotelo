@@ -1,11 +1,9 @@
-/* Reset general */
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
-/* Variables */
 :root {
   --bg-dark: #0d1117;
   --card-dark: #161b22;
@@ -15,14 +13,12 @@
   --btn-dark: #21262d;
 }
 
-/* General */
 body {
   background-color: var(--bg-dark);
   font-family: 'Orbitron', sans-serif;
   color: var(--text-light);
 }
 
-/* Navbar */
 .navbar {
   background-color: #000;
   border-bottom: 2px solid var(--accent-neon);
@@ -46,7 +42,6 @@ body {
   color: var(--accent-neon) !important;
 }
 
-/* Hero */
 .hero {
   background: linear-gradient(135deg, #000, #111);
   color: var(--accent-neon);
@@ -65,7 +60,6 @@ body {
   margin-top: 10px;
 }
 
-/* Catálogo - Productos */
 .card {
   background-color: var(--card-dark);
   border: 1px solid #333;
@@ -96,7 +90,6 @@ body {
   font-size: 0.95rem;
 }
 
-/* Botones */
 .product-add-btn,
 #checkout-btn {
   background-color: var(--accent-neon);
@@ -132,14 +125,12 @@ body {
   color: #000;
 }
 
-/* Inputs */
 .quantity {
   background-color: var(--btn-dark);
   color: var(--text-light);
   border: 1px solid #444;
 }
 
-/* Footer */
 footer {
   background-color: #000;
   color: var(--text-light);
@@ -165,7 +156,6 @@ footer p {
   font-size: 0.9rem;
 }
 
-/* Carrito vacío */
 #empty-cart-message h4 {
   color: var(--accent-neon);
 }

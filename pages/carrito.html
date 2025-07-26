@@ -6,25 +6,19 @@
   <link href="https://fonts.googleapis.com/css2?family=Orbitron&display=swap" rel="stylesheet">
   <title>Tienda Gaming FS | Carrito 🛒</title>
 
-  <!-- Favicon -->
   <link rel="icon" href="../assets/game-1926905_1280.png" type="image/png" />
 
-  <!-- Bootstrap CSS -->
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet" />
 
-  <!-- Toastify -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css" />
   <script src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
 
-  <!-- SweetAlert2 -->
   <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 
-  <!-- Estilos personalizados -->
   <link rel="stylesheet" href="../css/style.css" />
 </head>
 <body class="bg-dark text-white">
 
-  <!-- Navbar -->
   <header>
     <nav class="navbar navbar-expand-lg navbar-dark bg-black border-bottom border-success">
       <div class="container">
@@ -45,12 +39,10 @@
     </nav>
   </header>
 
-  <!-- Main -->
   <main class="py-5">
     <div class="container">
       <h2 class="text-center mb-4 text-neon">🛒 Carrito de Compras</h2>
 
-      <!-- Tabla de productos -->
       <div class="table-responsive">
         <table class="table table-dark table-bordered text-center align-middle border-success">
           <thead class="bg-success text-black">
@@ -64,19 +56,16 @@
             </tr>
           </thead>
           <tbody id="shopping-cart-body">
-            <!-- Productos renderizados con JS -->
           </tbody>
         </table>
       </div>
 
-      <!-- Carrito vacío -->
       <div id="empty-cart-message" class="text-center text-secondary mt-5" style="display: none;">
         <h4>📭 Tu carrito está vacío</h4>
         <p>Agregá algunos productos para continuar con tu compra</p>
         <a href="../index.html" class="btn btn-outline-success mt-2">Volver al catálogo</a>
       </div>
 
-      <!-- Total y botón de compra -->
       <div class="text-end mt-4">
         <h4 class="text-neon">Total: $<span id="total-price">0.00</span></h4>
         <button id="checkout-btn" class="btn btn-neon mt-2">Finalizar compra</button>
@@ -84,10 +73,8 @@
     </div>
   </main>
 
-  <!-- Bootstrap JS -->
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js"></script>
 
-  <!-- Script carrito -->
   <script defer src="../js/carrito.js"></script>
 </body>
 </html>

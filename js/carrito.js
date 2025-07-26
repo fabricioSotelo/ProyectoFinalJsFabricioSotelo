@@ -33,7 +33,6 @@ document.addEventListener("DOMContentLoaded", () => {
       const itemTotal = item.price * item.quantity;
       total += itemTotal;
 
-      // Ajuste de ruta para que las imágenes se vean desde /pages/
       const imagePath = item.image.startsWith("assets/")
         ? "../" + item.image
         : item.image;

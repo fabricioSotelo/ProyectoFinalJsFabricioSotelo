@@ -78,8 +78,7 @@ function addProductToShoppingCart(product, quantity) {
   }
 
   localStorage.setItem("accionCarrito", JSON.stringify(currentCart));
-
-  // Toastify
+  
   Toastify({
     text: "🎮 Producto añadido al carrito",
     duration: 3000,
