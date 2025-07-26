@@ -1,0 +1,4 @@
+La idea de este proyecto, es poder comenzar con un emprendimiento que viene derivado a la vente de producto, no solamente del gaming, sino de varias cosas, aparte de buscar poder insertarme en la industria desarroladora. Poder tener un trabajo que me haga crecer como desarrollador y tambien abrir mi mente para muchas otras cosas.
+En fin este proyecto quiere imitar a paginas como por ejemplo CompraGamer (Una de las más conocidas del pais, si no es la más), se que hay cosas que seguramente tengo que mejorar pero tratando de buscar lo que me gusta, un buen diseño, buenos colores, facil de usar,etc.
+Espero poder cumplir con las expectativas, de no ser asi aprender de los errores y tratar de corregirlos.
+Y por ultimo agradecerle por lo que nos enseño o por lo menos a mi, siempre con buena onda y predispuesto a ayudar siempre que lo necesitabamos, fue un placer y espero poder cruzarlo en otra comision, ABRAZO.
