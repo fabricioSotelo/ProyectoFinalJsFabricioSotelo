@@ -4,7 +4,7 @@
     "title": "Auriculares Logitech G733 Con Micrófono Inalámbricos Lightspeed Rgb P Color Azul",
     "brand": "Logitech",
     "category": "Auriculares",
-    "price": 220.000,
+    "price": 22000,
     "image": "assets/img/auris.1.webp"
   },
   {
@@ -12,22 +12,22 @@
     "title": "Auricular Gp-aorus H1 7.1 Rgb Gigabyte",
     "brand": "Aorus",
     "category": "Auriculares",
-    "price": 250.000,
+    "price": 25000,
     "image": "assets/img/auris.2.webp"
   },
   {
     "id": 3,
-    "title": "Teclado Redragon Kumara K552",
-    "brand": "Redragon",
-    "category": "Teclado",
+    "title": "Micrófono Logitech Yeti GX",
+    "brand": "Logitech",
+    "category": "Microfono",
     "price": 11000,
     "image": "assets/img/micro.1.png"
   },
   {
     "id": 4,
-    "title": "Auriculares HyperX Cloud II",
-    "brand": "HyperX",
-    "category": "Auriculares",
+    "title": "Micrófono Redragon Fenris GM301",
+    "brand": "Redragon",
+    "category": "Microfono",
     "price": 12000,
     "image": "assets/img/micro.2.webp"
   },
@@ -41,25 +41,25 @@
   },
   {
     "id": 6,
-    "title": "Teclado Redragon Kumara K552",
-    "brand": "Redragon",
-    "category": "Teclado",
+    "title": "Mouse Logitech G309 ligthspeed wireless white",
+    "brand": "Logitech",
+    "category": "Mouse",
     "price": 11000,
     "image": "assets/img/mouse.2.webp"
   },
   {
     "id": 7,
-    "title": "Auriculares HyperX Cloud II",
-    "brand": "HyperX",
-    "category": "Auriculares",
+    "title": "TECLADO USB GAMER REDRAGON KUMARA K552 MECANICO BLACK RGB RED SWITCH",
+    "brand": "Redragon",
+    "category": "Teclado",
     "price": 12000,
     "image": "assets/img/tecla.1.webp"
   },
   {
     "id": 8,
-    "title": "Mouse Logitech G502 Hero",
-    "brand": "Logitech",
-    "category": "Mouse",
+    "title": "Teclado Mecanico GAMER Redragon K552 Rgb Kumara Switch BLUE",
+    "brand": "Redragon",
+    "category": "Teclado",
     "price": 9500,
     "image": "assets/img/tecla.2.webp"
   }
